@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/tab1"
+        app:showAsAction="always"
+        android:icon="@drawable/money"
+        android:enabled="true"
+        android:checked="true"
+        android:title="입출금 관리" />
+    <item android:id="@+id/tab2"
+        app:showAsAction="always"
+        android:icon="@drawable/calendar"
+        android:enabled="true"
+        android:title="일별 사용 내역"/>
+    <item android:id="@+id/tab3"
+        app:showAsAction="always"
+        android:icon="@drawable/pie_chart"
+        android:enabled="true"
+        android:title="종류별 사용 내역"/>
+    <item android:id="@+id/tab4"
+        app:showAsAction="always"
+        android:icon="@drawable/poll_chart"
+        android:enabled="true"
+        android:title="사용 내역 비교"/>
+</menu>
