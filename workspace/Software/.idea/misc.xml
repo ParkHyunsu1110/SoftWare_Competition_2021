@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hyunsu/Desktop/SoftwareProject/SoftWare_Competition_2021/workspace/Software/app/src/main/res/layout/calendar.xml" value="0.176" />
+        <entry key="..\:/Users/hyunsu/Desktop/SoftwareProject/SoftWare_Competition_2021/workspace/Software/app/src/main/res/layout/circlegraphshow.xml" value="0.176" />
+        <entry key="..\:/Users/hyunsu/Desktop/SoftwareProject/SoftWare_Competition_2021/workspace/Software/app/src/main/res/layout/document.xml" value="0.2" />
+        <entry key="..\:/Users/hyunsu/Desktop/SoftwareProject/SoftWare_Competition_2021/workspace/Software/app/src/main/res/layout/graphmain.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/hyunsu/Desktop/SoftwareProject/SoftWare_Competition_2021/workspace/Software/app/src/main/res/layout/graphshow.xml" value="0.4" />
+        <entry key="..\:/Users/hyunsu/Desktop/SoftwareProject/SoftWare_Competition_2021/workspace/Software/app/src/main/res/layout/home.xml" value="0.1296875" />
+        <entry key="..\:/Users/hyunsu/Desktop/SoftwareProject/SoftWare_Competition_2021/workspace/Software/app/src/main/res/layout/input.xml" value="0.1296875" />
+        <entry key="..\:/Users/hyunsu/Desktop/SoftwareProject/SoftWare_Competition_2021/workspace/Software/app/src/main/res/layout/table.xml" value="0.11503623188405797" />
+        <entry key="..\:/androidproject/Software/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/androidproject/Software/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/androidproject/Software/app/src/main/res/layout/babyinfo.xml" value="0.16220988900100908" />
+        <entry key="..\:/androidproject/Software/app/src/main/res/layout/calendar.xml" value="0.16220988900100908" />
+        <entry key="..\:/androidproject/Software/app/src/main/res/layout/document.xml" value="0.17604166666666668" />
+        <entry key="..\:/androidproject/Software/app/src/main/res/layout/femalehw.xml" value="0.16220988900100908" />
+        <entry key="..\:/androidproject/Software/app/src/main/res/layout/graphmain.xml" value="0.16220988900100908" />
+        <entry key="..\:/androidproject/Software/app/src/main/res/layout/graphshow.xml" value="0.16220988900100908" />
+        <entry key="..\:/androidproject/Software/app/src/main/res/layout/home.xml" value="0.16220988900100908" />
+        <entry key="..\:/androidproject/Software/app/src/main/res/layout/info.xml" value="0.16220988900100908" />
+        <entry key="..\:/androidproject/Software/app/src/main/res/layout/input.xml" value="0.16220988900100908" />
+        <entry key="..\:/androidproject/Software/app/src/main/res/layout/malehw.xml" value="0.16220988900100908" />
+        <entry key="..\:/androidproject/Software/app/src/main/res/layout/markerview.xml" value="0.16220988900100908" />
+        <entry key="..\:/androidproject/Software/app/src/main/res/layout/table.xml" value="0.16220988900100908" />
+        <entry key="..\:/androidproject/Software/app/src/main/res/layout/vaccination.xml" value="0.16220988900100908" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

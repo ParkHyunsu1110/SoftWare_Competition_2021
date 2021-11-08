@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="330dp"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="205dp"
+                android:layout_height="330dp"
+                android:background="@drawable/document" />
+
+            <Button
+                android:id="@+id/document"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="245dp"
+                android:text="입출금 기록" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="206dp"
+                android:layout_height="330dp"
+                android:background="@drawable/calendar" />
+
+            <Button
+                android:id="@+id/calendar"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="245dp"
+                android:text="캘린더" />
+        </RelativeLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="330dp"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="205dp"
+                android:layout_height="330dp"
+                android:background="@drawable/circlegraph" />
+
+            <Button
+                android:id="@+id/circlegraph"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="245dp"
+                android:text="원 그래프" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="206dp"
+                android:layout_height="330dp"
+                android:background="@drawable/graph" />
+
+            <Button
+                android:id="@+id/graph"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="245dp"
+                android:layout_marginLeft="40dp"
+                android:text="꺾은선 그래프"/>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>
